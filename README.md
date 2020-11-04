@@ -28,7 +28,8 @@ It is primarly a (bare first) study on recursivity.
 ---
 
 *this project is part of the 42 São Paulo piscine: C05E08*
-*just bragging I was the only person to validate this exercise on my class*
+
+*just bragging, to my acknowledge, I was the only person to validate this exercise on my class*
 
 ---
 
